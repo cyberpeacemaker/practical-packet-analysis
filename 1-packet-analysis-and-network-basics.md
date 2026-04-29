@@ -14,4 +14,5 @@
 
 # Traffic Classification
 - [broadcast, multicast, unicast]
+- [224.0.0.1: all local subnet, 224.0.0.251:[printers, chromecast, etc], 239.255.255.250:UPnP] | `netsh interface ip show joins`
 # 
