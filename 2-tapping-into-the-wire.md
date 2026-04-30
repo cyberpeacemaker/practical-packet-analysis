@@ -3,9 +3,9 @@
 # Sniffing Around Hubs
 - visibility window
 # Sniffing in a Switched Environment
-### Port Mirroring
-### Hubbing Out
-### Using a Tap
-### ARP Cache Poisoning
+1. Port Mirroring
+2. Hubbing Out
+3. Using a Tap
+4. ARP Cache Poisoning
 # Sniffing in a Routed Envrironment
 # Sniffer Placement in Practice
