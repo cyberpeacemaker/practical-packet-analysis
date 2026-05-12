@@ -18,3 +18,7 @@ WinPcap Capture Driver is the windows implementation of the pcap packet-capturin
 *   **Step 6 (`make`):** This is where the **compiling** happens.
 *   **Step 7 (`sudo make install`):** This moves the built files to the right folders.
 *   **Step 8 (`sudo ldconfig`):** This tells the system's "map" where the new library is.
+
+# Wireshark Preference
+### Capture packets in monitor mode on 802.11 devices
+In normal Wi-Fi operation, your card must "associate" (connect) with a specific router to see data. It captures raw wireless frames flying through the air from any nearby network.
