@@ -22,3 +22,6 @@ WinPcap Capture Driver is the windows implementation of the pcap packet-capturin
 # Wireshark Preference
 ### Capture packets in monitor mode on 802.11 devices
 In normal Wi-Fi operation, your card must "associate" (connect) with a specific router to see data. It captures raw wireless frames flying through the air from any nearby network.
+
+### Profiles
+can share with others
